@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the laziest of times. No aliens here.
+=======
+It was the dangeroust of times. Aliens everywhere.
+>>>>>>> alien-plot
